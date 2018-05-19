@@ -1,0 +1,13 @@
+/* Modify Default Bootstrap styling */
+.jumbotron {
+  margin: 30px ;
+  padding: 1rem 2rem .2rem;
+}
+
+h2 {
+  margin-top: 1rem;
+}
+
+body {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Michael_Jackson_signature.svg/623px-Michael_Jackson_signature.svg.png");
+}
