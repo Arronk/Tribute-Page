@@ -4,10 +4,20 @@
   padding: 1rem 2rem .2rem;
 }
 
-h2 {
-  margin-top: 1rem;
-}
+/* Additional Styling Tweaks */
 
 body {
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Michael_Jackson_signature.svg/623px-Michael_Jackson_signature.svg.png");
 }
+
+h4 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.footer {
+  background-color: #e9ecef;
+  margin-bottom: 0;
+  margin: 0rem 1rem;
+}
+
